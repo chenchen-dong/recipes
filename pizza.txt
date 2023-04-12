@@ -4,3 +4,5 @@ flour
 yeast
 tomato sauce
 cheese
+** procedure **
+1. Mix flour, yeast, with water
